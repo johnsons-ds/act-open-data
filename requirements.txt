@@ -3,3 +3,10 @@ numpy
 pandas
 pydeck
 streamlit
+plotly==5.18.0
+streamlit_extras==0.3.6
+folium==0.15.1
+geopandas==0.14.1
+millify==0.1.1
+streamlit_folium
+python-dotenv
